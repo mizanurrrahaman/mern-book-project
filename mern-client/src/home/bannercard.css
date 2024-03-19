@@ -1,0 +1,53 @@
+
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+  }
+  
+ .banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+ .banner .swiper-slide:nth-child(1n) {
+    /* background-color: rgb(206, 17, 17); */
+    background-image: url("https://images-us.bookshop.org/ingram/9781250289841.jpg?height=500&v=v2-6bb1fa01a4f25a149a7674ba081c7a6f");
+  }
+  
+ .banner .swiper-slide:nth-child(2n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9780593801307.jpg?height=500&v=v2-5def823d6d4a587651b9c4e8d3446508");
+  }
+  
+ .banner .swiper-slide:nth-child(3n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9780143111061.jpg?height=500&v=v2");
+  }
+  
+ .banner .swiper-slide:nth-child(4n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9780593298374.jpg?height=500&v=v2-72deab09ba5e5e368da4587f75d6232f");
+  }
+  
+ .banner .swiper-slide:nth-child(5n) {
+    background-image: url(" https://images-us.bookshop.org/ingram/9781984822185.jpg?height=500&v=v2-d2abe0a2a94ce07021b4d2510379d7c7");
+  }
+  
+ .banner .swiper-slide:nth-child(6n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9780063328921.jpg?height=500&v=v2-9add8148ff057fe20cb16d1a42f053e2");
+  }
+  
+.banner .swiper-slide:nth-child(7n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9781250859044.jpg?height=500&v=v2-86cf1a9c914e712d0771f4d4e5f5d3c3");
+  }
+  
+ .banner .swiper-slide:nth-child(8n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9780593473085.jpg?height=500&v=v2-cca4e3cce09493219bb1d8c5af07f7ab");
+  }
+  
+ .banner .swiper-slide:nth-child(9n) {
+    background-image: url("https://images-us.bookshop.org/ingram/9781805302483.jpg?height=500&v=v2-b213b40fda2bfc535804eeadd6825448");
+  }
+  
